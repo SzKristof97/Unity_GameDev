@@ -1,0 +1,13 @@
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\First\First\bin\Debug\netcoreapp3.1\First.exe
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\First\First\bin\Debug\netcoreapp3.1\First.deps.json
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\First\First\bin\Debug\netcoreapp3.1\First.runtimeconfig.json
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\First\First\bin\Debug\netcoreapp3.1\First.runtimeconfig.dev.json
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\First\First\bin\Debug\netcoreapp3.1\First.dll
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\First\First\bin\Debug\netcoreapp3.1\First.pdb
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\First\First\obj\Debug\netcoreapp3.1\First.csprojAssemblyReference.cache
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\First\First\obj\Debug\netcoreapp3.1\First.AssemblyInfoInputs.cache
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\First\First\obj\Debug\netcoreapp3.1\First.AssemblyInfo.cs
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\First\First\obj\Debug\netcoreapp3.1\First.csproj.CoreCompileInputs.cache
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\First\First\obj\Debug\netcoreapp3.1\First.dll
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\First\First\obj\Debug\netcoreapp3.1\First.pdb
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\First\First\obj\Debug\netcoreapp3.1\First.genruntimeconfig.cache

@@ -37,6 +37,8 @@ namespace First
             Console.WriteLine("a = {0}, b = {1}, c = {2:.00}",a,b,c);
             Console.ReadKey(); // Várakozás egy gomb lenyomására
 
+
+
             //Konzol törlése a szebb végeredményért
             Console.Clear();
 
@@ -44,7 +46,7 @@ namespace First
             c += 0.0123d;
 
             //Kiírás
-            Console.WriteLine("a = {0}, b = {1}, c = {2:.00}", a, b, c);
+            Console.WriteLine("a = {0}, b = {1}, c = {2:.000}", a, b, c);
             Console.ReadKey(); // Várakozás egy gomb lenyomására
             #endregion
 
@@ -82,7 +84,7 @@ namespace First
             #region Ha elágazás
             if (d == e)
             {
-                Console.WriteLine("d ({0}) értéke egyenlő az e ({1}) értékével!",d,e);
+                Console.WriteLine("d ({0}) értéke egyenlő az e ({1}) értékével!", d, e);
             }else if (d > e)
             {
                 Console.WriteLine("d ({0}) értéke nagyobb mint az e ({1}) értéke!", d, e);
@@ -105,7 +107,7 @@ namespace First
                 case 2:
                     {
                         Console.WriteLine("f változó értéke: {0}", f);
-                        break; 
+                        break;
                     }
                 default:
                     {

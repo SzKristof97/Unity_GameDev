@@ -1,0 +1,7 @@
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\Game\Game\bin\Debug\Game.exe.config
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\Game\Game\bin\Debug\Game.exe
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\Game\Game\bin\Debug\Game.pdb
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\Game\Game\obj\Debug\Game.exe
+D:\Develops\GitHub\StatiCAD\Unity_GameDev\Projektek\Game\Game\obj\Debug\Game.pdb
